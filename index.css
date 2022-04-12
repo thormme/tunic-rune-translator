@@ -1,0 +1,8 @@
+body {
+    background-color: darkgray;
+}
+
+.picker {
+    display: inline-grid;
+    margin-right: -10px;
+}
